@@ -44,6 +44,8 @@ public class child extends overriding {
 		System.out.println(a);
 		System.out.println();
 		
+		
+	
 	
 
 	}

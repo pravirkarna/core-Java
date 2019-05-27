@@ -12,6 +12,8 @@ public abstract class abstractDemo extends father {
 	//concrete method
 	public void display() {
 		System.out.println("I am in abstract class");
+		
+		
 	}
 
 	
