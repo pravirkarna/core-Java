@@ -14,5 +14,11 @@ public class grandfather {
 		
 	}
 	
+public  static void demo() {
+		
+		System.out.println("i am in Grandfather class");
+		
+	}
+	
 
 }
