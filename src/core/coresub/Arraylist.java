@@ -44,10 +44,12 @@ public class Arraylist {
 		ListIterator iterator = al.listIterator();
 	
 		 
-		 while(iterator.hasNext()) { System.out.println(iterator.next());
+		 while(iterator.hasNext()) { 
+			 System.out.println(iterator.next());
 		 
 		 
 		  }
+		 
 		 
 
 		while (iterator.hasPrevious()) {
