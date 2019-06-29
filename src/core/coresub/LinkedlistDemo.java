@@ -13,6 +13,7 @@ public class LinkedlistDemo {
 		ll.add("Ele2");
 		ll.add("Element3");
 		ll.add("Ele4");
+	
 		
 		//print
 		System.out.println(ll);

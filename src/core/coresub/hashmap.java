@@ -12,8 +12,9 @@ public class hashmap {
 		
 		hm.put(1, "Naveen");
 		hm.put(null, "Pravir");
-		hm.put(34, "Pravir");
+		hm.put(34, null);
 		hm.put(1, "New Naveen");
+		hm.put(3, null);
 		
 		hm.remove(1);
 		

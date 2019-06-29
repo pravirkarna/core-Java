@@ -50,7 +50,7 @@ public class Arraylist {
 		 
 		  }
 		 
-		 
+		 //Manav
 
 		while (iterator.hasPrevious()) {
 			System.out.println(iterator.previous());
